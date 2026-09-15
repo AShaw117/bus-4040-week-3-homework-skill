@@ -9,6 +9,7 @@ Compresses long text (reports, articles, case studies, transcripts, research pap
 ## Files
 
 - `SKILL.md` - the skill itself. The header tells Claude when to use it; the body tells Claude how.
+- `examples/plato-republic-summary.md` - a real one-page summary the skill produced from a six-page PDF excerpt of Plato's *Republic*.
 
 ## How to use it
 
